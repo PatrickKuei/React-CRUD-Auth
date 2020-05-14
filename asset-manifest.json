@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-CRUD-Auth/static/css/main.8a18c7c4.chunk.css",
+    "main.js": "/React-CRUD-Auth/static/js/main.daa5513c.chunk.js",
+    "main.js.map": "/React-CRUD-Auth/static/js/main.daa5513c.chunk.js.map",
+    "runtime-main.js": "/React-CRUD-Auth/static/js/runtime-main.65857670.js",
+    "runtime-main.js.map": "/React-CRUD-Auth/static/js/runtime-main.65857670.js.map",
+    "static/js/2.aee78fee.chunk.js": "/React-CRUD-Auth/static/js/2.aee78fee.chunk.js",
+    "static/js/2.aee78fee.chunk.js.map": "/React-CRUD-Auth/static/js/2.aee78fee.chunk.js.map",
+    "index.html": "/React-CRUD-Auth/index.html",
+    "precache-manifest.e7a17708bffc3e12d5c82a9d984e214e.js": "/React-CRUD-Auth/precache-manifest.e7a17708bffc3e12d5c82a9d984e214e.js",
+    "service-worker.js": "/React-CRUD-Auth/service-worker.js",
+    "static/css/main.8a18c7c4.chunk.css.map": "/React-CRUD-Auth/static/css/main.8a18c7c4.chunk.css.map",
+    "static/js/2.aee78fee.chunk.js.LICENSE.txt": "/React-CRUD-Auth/static/js/2.aee78fee.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.65857670.js",
+    "static/js/2.aee78fee.chunk.js",
+    "static/css/main.8a18c7c4.chunk.css",
+    "static/js/main.daa5513c.chunk.js"
+  ]
+}
